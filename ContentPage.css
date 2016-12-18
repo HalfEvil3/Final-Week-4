@@ -1,0 +1,44 @@
+
+/*icon styles*/
+.fi-social-facebook {
+color: dodgerblue;
+font-size: 2rem;
+}
+.fi-social-youtube {
+color: red;
+font-size: 2rem;
+}
+.fi-social-pinterest {
+color: darkred;
+font-size: 2rem;
+}
+i.fi-social-instagram {
+color: brown;
+font-size: 2rem;
+}
+i.fi-social-tumblr {
+color: navy;
+font-size: 2rem;
+}
+.fi-social-twitter {
+color: skyblue;
+font-size: 2rem;
+}
+
+/*Colors*/
+header {
+	background-color: white;
+}
+body {
+	background-color: #1b1819;
+	color: #8E793E
+}
+.related {
+	padding-bottom: 2em;
+}
+.stats{
+	padding-top: 1em;
+}
+footer {
+	background-color: #EAEAEA;
+}
